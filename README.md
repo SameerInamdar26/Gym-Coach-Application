@@ -39,6 +39,3 @@ Add your backend or detection screenshots here:
 
 ---
 
-## 🎥 Demo Video
-[Demo Video](videos/video.mp4)
-
