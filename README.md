@@ -39,3 +39,6 @@ Add your backend or detection screenshots here:
 
 ---
 
+## Demo
+
+https://sam-ai-gym-coach.streamlit.app/
